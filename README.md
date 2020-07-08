@@ -1,4 +1,4 @@
 # workstation
 
-TODO: Enter the cookbook description here.
+TODO: this is an workstation cookbook
 
